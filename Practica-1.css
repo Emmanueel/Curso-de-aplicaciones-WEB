@@ -1,0 +1,33 @@
+body{
+    background-color:REd
+}
+h1{
+    color:#ff0000;
+    text-align:center;
+    font-family:times;
+}
+h2{
+    color:rgb(0,0,255);
+    text-align:justify;
+    font-family:courier;
+}
+h3{
+    color:yellowgreen;
+    text-align:left;
+    font-family:impact;
+}
+h4{
+    color:royalblue;
+    text-align:right;
+    font-family:comic;
+}
+h5{
+    color: #ff0fff;
+    text-align:center;
+    font-family:courier;
+}
+h6{
+    color:rgb(255,0,255);
+    text-align:left;
+    font-family:times;
+}
